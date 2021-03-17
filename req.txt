@@ -1,0 +1,28 @@
+py -m pip install --user virtualenv
+py -m venv env
+
+
+terminal command
+code 
+cd desktop
+cd projects
+dir
+cd py
+cd speech ass
+py -m venv env
+cd env
+cd Scripts
+activate.bat
+-----------------------------
+for normal python
+pip install SpeechRecognition
+pipwin install pyaudio
+-----------------------------
+
+
+-----------------------------
+in venv codes to follow
+note pkg required for each time new venv is created
+pip install pipwin
+pip install SpeechRecognition
+pip install pyaudio
